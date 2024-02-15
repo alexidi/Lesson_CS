@@ -60,3 +60,4 @@ task1.GlobalUsings.g.cs
 task1.GeneratedMSBuildEditorConfig.editorconfig
 task1.csproj.FileListAbsolute.txt
 task1.AssemblyInfo.cs
+.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
