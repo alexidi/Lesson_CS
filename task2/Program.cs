@@ -19,3 +19,12 @@ Console.WriteLine(prod3);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+int a = 4;
+int b = 10;
+int c = 2;
+int d = 3;
+int prod = a * b;
+int sum3 = c + d;
+int quotient = prod / sum3;
+Console.WriteLine(quotient);
